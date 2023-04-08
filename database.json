@@ -1,0 +1,47 @@
+{
+    "cv": {
+      "heading": "CV",
+      "link": "./pdf/Jack Simms Full Time CV March 23.pdf"
+    },
+    "projects": {
+      "heading": "Projects",
+      "content": [
+        {
+          "heading": "Project 1",
+          "link": "https://github.com/user/project1"
+        },
+        {
+          "heading": "Project 2",
+          "link": "https://github.com/user/project2"
+        }
+      ]
+    },
+    "contacts": {
+      "heading": "Contacts",
+      "content": [
+        {
+          "heading": "Gmail",
+          "link": "https://github.com/user/project1"
+        },
+        {
+          "heading": "Linkedin",
+          "link": "https://github.com/user/project2"
+        }
+      ]
+    },
+    "blog": [
+      {
+        "heading": "My First Blog Post",
+        "content": "This is my first blog post. It's just a test."
+      },
+      {
+        "heading": "My Second Blog Post",
+        "content": "This is my second blog post. I'm writing about something interesting."
+      },
+      {
+        "heading": "My Third Blog Post",
+        "content": "This is my third blog post. I'm talking about a recent event."
+      }
+    ]
+  }
+  
